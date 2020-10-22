@@ -11,6 +11,7 @@ namespace AnkaraProjesi
         static void Main(string[] args)
         {
             Console.WriteLine("Ankara");
+            Console.WriteLine("Can");
         }
     }
 }
