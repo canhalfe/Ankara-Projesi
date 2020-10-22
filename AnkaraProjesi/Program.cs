@@ -16,7 +16,7 @@ namespace AnkaraProjesi
         }
         static void yaz()
         {
-
+            Console.WriteLine("onur");
         }
             
         static void oku() {}
