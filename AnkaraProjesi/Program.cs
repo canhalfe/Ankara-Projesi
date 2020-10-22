@@ -12,6 +12,11 @@ namespace AnkaraProjesi
         {
             Console.WriteLine("Ankara");
             Console.WriteLine("Can");
+            
+        }
+        static void yaz()
+        {
+
         }
     }
 }
