@@ -14,6 +14,7 @@ namespace AnkaraProjesi
             Console.WriteLine("Can");
 
         }
-            static void oku() {}
+            
+        static void oku() {}
     }
 }
